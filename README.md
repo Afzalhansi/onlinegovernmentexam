@@ -59,12 +59,6 @@ php -S localhost:8000
 
 ---
 
-## 📷 Screenshots
-
-> *(Add screenshots here for pages like Registration, FAQs, and Contact to visually represent the project.)*
-
----
-
 ## 📦 Requirements
 
 - A modern web browser (e.g., Chrome, Firefox, Edge)
