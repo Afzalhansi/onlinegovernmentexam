@@ -43,18 +43,6 @@ To view and run the project locally:
 
 1. Download or clone the repository.
 2. Open any `.html` file (like `index.html`) directly in your browser.
-
-### Option 2: Enable PHP Features
-
-If you want to run the PHP functionality (e.g., form handling):
-
-1. Ensure you have PHP installed or use a server environment like **XAMPP**, **MAMP**, or **WAMP**.
-2. Run the built-in PHP server:
-
-```bash
-php -S localhost:8000
-```
-
 3. Open [http://localhost:8000](http://localhost:8000) in your browser.
 
 ---
@@ -75,12 +63,8 @@ php -S localhost:8000
 
 ---
 
-## 📝 License
-
-This project is created for **educational purposes only** and is not intended for production use.
-
 ---
 
 ## 🙌 Acknowledgements
 
-Created with ❤️ to support learners preparing for government exams.
+Created with HTml,CSS,Javascript to support learners preparing for government exams.
